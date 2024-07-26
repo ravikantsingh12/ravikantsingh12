@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Ravikant Singh
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Backend Services<br>🌱 I’m currently learning React.js<br>💬 Ask me anything about Web Related
+# 🙋‍♂️ About Me:
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Backend Services<br>🌱 I’m currently learning React.js<br>💬 Ask me anything about JavaScript, Node.js, MongoDB
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ravikant_singh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-singh-327a98241/) [![Email](https://img.shields.io/badge/GMAIL-gray.svg?&logo=maildotru&logoColor=white)](mailto:1210ravi.singh@gmail.com)
 
 # 💻 Tech Stack:
